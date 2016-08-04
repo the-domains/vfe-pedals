@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VFE Pedals]]></title>
+        <description><![CDATA[VFE Pedals]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 14:22:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Barcelona GO!]]></title>
+            <description><![CDATA[<article><h1>Barcelona GO!</h1><p>BARCELONA in Flow Motion - A fast moving short film.... Gold prize winner at Timelapse Showfest 2014 In few other cities is it possible to walk from spectacular location to spectacular location. I had a fantastic time adventuring around Barcelona's winding streets making this film.</p></article>]]></description>
+            <link>https://vimeo.com/98123388</link>
+            <guid isPermaLink="false">4e14da39-575d-44b9-a1d4-cd2c7cad9812</guid>
+            <pubDate>Thu, 04 Aug 2016 14:22:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
