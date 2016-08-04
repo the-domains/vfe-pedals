@@ -1,0 +1,14 @@
+layout_spectrum: 0.21707745920866728
+typography_spectrum: 0.05454796110279858
+color:
+  brandStrength: 0.324193196836859
+  lightness: 0.1288340596947819
+  saturation: 0.8933026783633977
+  rhythmicContrast: 0.14947996172122657
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: VFE Pedals
