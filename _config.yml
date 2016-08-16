@@ -1,4 +1,3 @@
-layout_spectrum: 0.21707745920866728
 typography_spectrum: 0.05454796110279858
 color:
   brandStrength: 0.324193196836859
@@ -11,5 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.21707745920866728
 name: VFE Pedals
 title: Taking Pedals to School
+description: 'Custom Pedals, Meet Eduation'
