@@ -10,7 +10,13 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+opengraph:
+  type: ''
 layout_spectrum: 0.21707745920866728
+author:
+  name: Peter Rutter
+  email: peter@vfecustom.com
+  url: vfepedals.com
 name: VFE Pedals
 title: Taking Pedals to School
 description: 'Custom Pedals, Meet Eduation'
