@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[VFE Pedals]]></title>
-        <description><![CDATA[VFE Pedals]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Taking Pedals to School]]></title>
+        <description><![CDATA[Taking Pedals to School]]></description>
+        <link>https://thegrid.ai/vfe-pedals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 14:22:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Aug 2016 02:39:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vfe-pedals/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VFE Pedals (@vfepedals) * Instagram photos and videos]]></title>
+            <description><![CDATA[<article><h1>VFE Pedals (@vfepedals) * Instagram photos and videos</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c115f09ef8a30c73c0513f824f32e072/croprotate.jpg?cropheight=104&cropwidth=150&degrees=0&input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-19%2F926244_1433655580241551_749471590_a.jpg&x=0&y=24"></article>]]></description>
+            <link>https://www.instagram.com/vfepedals/</link>
+            <guid isPermaLink="false">5c1200cf-ce32-4a93-9379-91ed0c7e21ac</guid>
+            <pubDate>Tue, 16 Aug 2016 02:39:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Barcelona GO!]]></title>
             <description><![CDATA[<article><h1>Barcelona GO!</h1><p>BARCELONA in Flow Motion - A fast moving short film.... Gold prize winner at Timelapse Showfest 2014 In few other cities is it possible to walk from spectacular location to spectacular location. I had a fantastic time adventuring around Barcelona's winding streets making this film.</p></article>]]></description>
